@@ -1,0 +1,8 @@
+Listar
+Ls
+Ls -s -> arquivos ocutos
+
+
+
+Openfoam:
+
