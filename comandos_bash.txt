@@ -1,8 +1,10 @@
-Listar
-Ls
-Ls -s -> arquivos ocutos
+listar
+ls
+ls -s -> arquivos ocutos
+cat nome-> exibe conteudo dentro do arquivo
+rm -rf nome -> remove arquivo ou diret¨®rio
+
 
 
 
 Openfoam:
-
