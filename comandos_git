@@ -2,3 +2,4 @@ git ini . -> cria um repo git na pasta atua
 git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arq -> add arq para ser commitado
 git commit -m "mensagem de lembrete" -> faz o commit do que estava para ser commitado
+git log -. mostra todo o hotórico

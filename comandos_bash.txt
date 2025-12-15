@@ -2,7 +2,8 @@ listar
 ls
 ls -s -> arquivos ocutos
 cat nome-> exibe conteudo dentro do arquivo
-rm -rf nome -> remove arquivo ou diret¨®rio
+rm	-> remore ou diret¨®ri ou arquivo
+rm -rf nome -> remove de forma recursiva e for?ada todos os diret¨®rios
 
 
 
