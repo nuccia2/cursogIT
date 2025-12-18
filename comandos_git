@@ -18,8 +18,11 @@ fLUXO DE TRABALHO
 10. git diff . -> para cada arquivo
 11. git reset nome -> volta antes do commit
 
-12. git checkut main ou outra branch -> caminhar pelas branches
+12. git checkout main ou outra branch -> caminhar pelas branches
 13. git branch -D e o nome -> apaga 
 a ideia é...trabalhei numa seucundária e depois não preciso mais dele, pois antes eu mesclei, trouxe tudo para a principal por exemplo.
 14. gir merge e o nome da branch que quero trazer os arquivosgit 
 xxxx
+
+15. git checkout -b secundaria -> cria branch
+16. git branch -> lista as branchs
