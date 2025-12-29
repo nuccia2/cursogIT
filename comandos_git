@@ -1,3 +1,4 @@
+do Curso
 git ini . -> cria um repo git na pasta atua
 git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arq -> add arq para ser commitado
