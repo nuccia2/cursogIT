@@ -30,3 +30,10 @@ xxxx
 
 15. git checkout -b secundaria -> cria branch
 16. git branch -> lista as branchs
+
+
+GitHub
+
+17. git push -u origin main - Leva para o remoto
+18. git pull -u origin main - Traz do remoto
+
