@@ -35,6 +35,12 @@ xxxx
 GitHub
 
 17. git push -u origin main - Leva para o remoto
-18. git pull -u origin main - Traz do remoto 
+18. git pull -u origin main - Traz do remoto(origem) para local
 19. leva para local com pull
+
+Caso especial: branch de outro fork
+git remote add upstream https://github.com/USUARIO/REPO.git
+git fetch upstream
+git switch -c branch_nome upstream/branch_nome
+
 
