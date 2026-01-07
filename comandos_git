@@ -32,7 +32,7 @@ xxxx
 16. git branch -> lista as branchs
 
 
-xxx==============================================xxx
+xxx=======================x=======================xxx
 ## Git fluxo de trabalho LOCAL
 1. git clone <end. do projeto>
 1.  git checkout -b <nova branch 
