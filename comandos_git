@@ -1,11 +1,11 @@
-do Curso
+# Curso
 git ini . -> cria um repo git na pasta atua
 git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arq -> add arq para ser commitado
 git commit -m "mensagem de lembrete" -> faz o commit do que estava para ser commitado
 git log -. mostra todo o hotórico
 
-fLUXO DE TRABALHO
+# fLUXO DE TRABALHO
 
 1. criar o diretório do projeto
 2. iniciar o git dentro do diretório (git init .)
@@ -20,20 +20,18 @@ fLUXO DE TRABALHO
 11. git reset nome -> volta antes do commit
 
 
-Branch
+# Branch
 
 12. git checkout main ou outra branch -> caminhar pelas branches
-13. git branch -D e o nome -> apaga 
-a ideia é...trabalhei numa seucundária e depois não preciso mais dele, pois antes eu mesclei, trouxe tudo para a principal por exemplo.
+13. git branch -D e o nome -> apaga a ideia é...trabalhei numa seucundária e depois não preciso mais dele, pois antes eu mesclei, trouxe tudo para a principal por exemplo.
 14. gir merge e o nome da branch que quero trazer os arquivosgit 
-xxxx
-
 15. git checkout -b secundaria -> cria branch
 16. git branch -> lista as branchs
 
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ## Git fluxo de trabalho LOCAL
+
 1. git clone <end. do projeto>
 1.  git checkout -b <nova branch 
 2. cria ou atualiza arquivos
@@ -63,14 +61,14 @@ excluir <novabranch> origin
 12 git branch -D <nova branch>
 ==============================================
 
-
-
-
-
 Caso especial: branch de outro fork
 git remote add upstream https://github.com/USUARIO/REPO.git
 git fetch upstream
 git switch -c branch_nome upstream/branch_nome
 
+==============================================
+Estudo em VS Code
+levar para o github
+1. git push -u origin main
 
-
+git remote add origin <endereço do repositório>
